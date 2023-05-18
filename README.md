@@ -2,7 +2,7 @@
 *Mars & robo background edition!*
 
 Deployed using Heroku & Netlify
-[URL](https://creative-mochi-8755d5.netlify.app)
+[Client URL](https://creative-mochi-8755d5.netlify.app)
 [Server](https://movie-review-mysql-deploy.herokuapp.com/)
 
 Server side / all code in another repo [here](https://github.com/helenma0223234/movie-review-website)
