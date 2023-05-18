@@ -63,7 +63,7 @@ function App() {
   };
 
   const updateReview = (movieName) => {
-    if (movieName === '' || review === '' || currentValue === 0) {
+    if (movieName === '' || review === '') {
       setShowAlert(true);
       setTimeout(() => setShowAlert(false), 1500);
       return;
