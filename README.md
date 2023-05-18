@@ -15,10 +15,14 @@ Server side / all code in another repo [here](https://github.com/helenma0223234/
 - Node JS
 - midjourney generated background
 
-### `npm start`
+### `npm start` for client side
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+### 'npm run devStart' for server side
+
+but you have you go in the code and change config setup if you want to run locally a SQL database and set up the schemas... so not recommended.
 
 
 ### Source
